@@ -20,9 +20,9 @@ env_variables:
   DB_DATABASE: laravel
   DB_USERNAME: laravel
   DB_PASSWORD: laravel
-  DB_SOCKET: "/cloudsql/ipingdatalabs:asia-south1:firstinstance"
+  DB_SOCKET: "/cloudsql/aishwarya-247812:asia-south1:firstinstance"
 
 beta_settings:
     # for Cloud SQL, set this value to the Cloud SQL connection name,
     # e.g. "project:region:cloudsql-instance"
-    cloud_sql_instances: "ipingdatalabs:asia-south1:firstinstance"
+    cloud_sql_instances: "aishwarya-247812:asia-south1:firstinstance"
